@@ -23,9 +23,9 @@ dependencies:
       path: packages/flet
       ref: main
 
-dependency_overrides:
-  flet:
-    path: /Users/yuanyi/OpenSource/flet/client/../packages/flet
+# dependency_overrides:
+#   flet:
+#     path: /Users/yuanyi/OpenSource/flet/client/../packages/flet
 
 dev_dependencies:
   flutter_test:
